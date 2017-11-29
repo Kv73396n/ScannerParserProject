@@ -1,0 +1,23 @@
+boolean
+else
+if
+int
+main
+void
+while
+//seperators
+()
+{}
+;
+,
+//operators
+= + - * / < <= > >= == != && || !
+//random
+%
+ana
+43
+3D
+AMMOOO
+AAAaaaAa1
+4*3
+4/a
